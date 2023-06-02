@@ -568,7 +568,7 @@ axs.xaxis.set_minor_locator(MultipleLocator(1850))
 axs.set_ylabel('Preço em US$ por tonelada')
 
 axs.legend()
-axs.locator_params ('Data', nbins = 10) 
+#axs.locator_params ('Data', nbins = 10) 
 
 plt.show()
 
@@ -898,7 +898,7 @@ axs.xaxis.set_minor_locator(MultipleLocator(1850))
 axs.set_ylabel('Preço em US$ por tonelada')
 
 axs.legend()
-axs.locator_params ('Data', nbins = 10) 
+#axs.locator_params ('Data', nbins = 10) 
 
 plt.show()
 
@@ -1240,7 +1240,7 @@ axs.xaxis.set_minor_locator(MultipleLocator(1850))
 axs.set_ylabel('Preço em US$ por tonelada')
 
 axs.legend()
-axs.locator_params ('Data', nbins = 10) 
+#axs.locator_params ('Data', nbins = 10) 
 
 plt.show()
 
@@ -1555,7 +1555,7 @@ axs.xaxis.set_minor_locator(MultipleLocator(1850))
 axs.set_ylabel('Preço em US$ por tonelada')
 
 axs.legend()
-axs.locator_params ('Data', nbins = 10) 
+#axs.locator_params ('Data', nbins = 10) 
 
 plt.show()
 
@@ -1911,7 +1911,7 @@ axs.xaxis.set_minor_locator(MultipleLocator(1850))
 axs.set_ylabel('Preço em US$ por tonelada')
 
 axs.legend()
-axs.locator_params ('Data', nbins = 10) 
+#axs.locator_params ('Data', nbins = 10) 
 
 plt.show()
 
